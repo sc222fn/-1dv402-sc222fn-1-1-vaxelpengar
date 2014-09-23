@@ -1,0 +1,6 @@
+c:\users\sc222fn\documents\visual studio 2013\Projects\Växelpengar\bin\Debug\Växelpengar.exe.config
+c:\users\sc222fn\documents\visual studio 2013\Projects\Växelpengar\bin\Debug\Växelpengar.exe
+c:\users\sc222fn\documents\visual studio 2013\Projects\Växelpengar\bin\Debug\Växelpengar.pdb
+c:\users\sc222fn\documents\visual studio 2013\Projects\Växelpengar\obj\Debug\Växelpengar.csprojResolveAssemblyReference.cache
+c:\users\sc222fn\documents\visual studio 2013\Projects\Växelpengar\obj\Debug\Växelpengar.exe
+c:\users\sc222fn\documents\visual studio 2013\Projects\Växelpengar\obj\Debug\Växelpengar.pdb
